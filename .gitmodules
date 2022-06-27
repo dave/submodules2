@@ -1,4 +1,4 @@
 [submodule "bar"]
 	path = bar
 	url = https://github.com/dave/submodules3
-	branch = new
+	branch = master
